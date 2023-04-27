@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcosgz0
-- 👀 I am interested in impacting the world in a positive way by connecting and improving people's lives through the use of the internet.
+- 👀 I'm interested in making a positive impact on the world by connecting and improving people's lives through the use of the internet.
 - 🌱 I’m currently learning  Javascrip
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
