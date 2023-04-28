@@ -1,5 +1,5 @@
 # About Me:
- About Me:<br>👨‍💻 Hi, I am Full Stack Developer👀<br> 🚀I'm interested in making a positive impact on the world by connecting and improving people's lives through the use of the internet.<br>👾 I’m looking to collaborate on project related to IA and VR<br>
+ About Me:<br>👨‍💻 Hi, I am Full Stack Developer<br> 🚀I'm interested in making a positive impact on the world by connecting and improving people's lives through the use of the internet.<br>👾 I’m looking to collaborate on project related to IA and VR<br>
 
 
 ## 🌐 Socials:
